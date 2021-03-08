@@ -1,6 +1,6 @@
 import time
 from backend.blockchain.blockchain import Blockchain
-#https://www.youtube.com/watch?v=F8W9370CHkk
+
 
 from backend.config import SECONDS
 
